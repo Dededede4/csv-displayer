@@ -1,0 +1,13 @@
+{
+  "name": "epr/csv-displayer",
+  "description": "Library CSV displayer",
+  "type": "library",
+  "license": "GPL-3.0-only",
+  "authors": [
+     {
+         "name": "Émile PRÉVOT",
+         "email": "prevotmorvan@yahoo.fr"
+     }
+  ],
+  "require": {}
+}
